@@ -54,7 +54,9 @@ html {
 
 body {
   display: flex;
+  background-color: black;
   flex-direction: column;
+  color: blue;
   height: 100%;
   font-family: "Noto Serif", serif;
 }
