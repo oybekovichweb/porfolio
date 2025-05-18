@@ -25,7 +25,11 @@ export default [
     vercel: "https://scss-template-5b89.vercel.app/"
     }, {
       title: "ikkinchi figma imtihon",
-      github: "https://github.com/oybekovichweb/scss-template",
-      vercel: "https://scss-template-urnz.vercel.app/"
-      },
+      github: "https://github.com/oybekovichweb/1111",
+      vercel: "https://1111-alpha-sand.vercel.app/"
+      },{
+        title: "birinchi figma imtihon",
+        github: "https://scss-template-sable.vercel.app/",
+        vercel: "https://scss-template-zace.vercel.app/"
+        },
 ];
