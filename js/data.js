@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Sunnyside agency landing page",
+    github: "https://github.com/oybekovichweb/Sunnyside-Agency-Landing",
+    vercel: "https://sunnyside-agency-landing-bd6q.vercel.app/",
+  },
+  {
     title: "Insure landing page",
     github: "https://github.com/oybekovichweb/1111",
     vercel: "https://1111-rhs6.vercel.app/#",
