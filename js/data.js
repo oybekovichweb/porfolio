@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Insure landing page",
+    github: "https://github.com/oybekovichweb/1111",
+    vercel: "https://1111-rhs6.vercel.app/#",
+  },
+  {
     title: "namangan 24",
     github: "https://github.com/oybekovichweb/Namangan-24",
     vercel: "https://namangan-24-eight.vercel.app/",
