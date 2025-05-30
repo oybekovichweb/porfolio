@@ -1,5 +1,11 @@
 export default [
   {
+    title: "4.5dars",
+    github: "https://github.com/oybekovichweb/4.5dars",
+    vercel: "https://4-5dars-ewni.vercel.app/",
+  },
+  
+  {
     title: "Sunnyside agency landing page",
     github: "https://github.com/oybekovichweb/Sunnyside-Agency-Landing",
     vercel: "https://sunnyside-agency-landing-bd6q.vercel.app/",
