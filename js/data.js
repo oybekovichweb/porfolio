@@ -1,5 +1,11 @@
 export default [
   {
+    title: "4.6dars",
+    github: "https://github.com/oybekovichweb/4.6",
+    vercel: "https://4-6-oybekovichwebs-projects.vercel.app/",
+  },
+  
+  {
     title: "4.5dars",
     github: "https://github.com/oybekovichweb/4.5dars",
     vercel: "https://4-5dars-ewni.vercel.app/",
