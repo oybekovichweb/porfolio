@@ -2,7 +2,7 @@ export default [
   {
     title: "4-oy imtihon figma",
     github: "https://github.com/oybekovichweb/4-oy-imtihon-figma",
-    vercel: "https://vercel.com/oybekovichwebs-projects/4-oy-imtihon-figma",
+    vercel: "https://4-12-dars-oybekovichwebs-projects.vercel.app/",
   },
   
   {
