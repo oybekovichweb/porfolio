@@ -1,5 +1,11 @@
 export default [
   {
+    title: "4.12-imtihon misol",
+    github: "https://github.com/oybekovichweb/4.12-dars",
+    vercel: "https://vercel.com/oybekovichwebs-projects/4-12-dars",
+  },
+ 
+  {
     title: "4.11dars",
     github: "https://github.com/oybekovichweb/4.11-dars-uy-ishi",
     vercel: "https://4-11-dars-uy-ishi.vercel.app/",
